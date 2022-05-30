@@ -8,9 +8,6 @@ I'm **yhuijune**, a Junior frontend development engineer from Guangzhou, China.
 - 🌱 I’m currently using Vue and React
 - 💞 Have a boyfriend fortunately
 
-<br><br>
-<img src="https://s3.ax1x.com/2020/12/21/r0kCbn.png" />
-
 <!---
 yhuijune/yhuijune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
