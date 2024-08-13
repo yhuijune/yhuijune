@@ -4,7 +4,6 @@
 
 I'm **yhuijune**, a Junior frontend development engineer from Guangzhou, China.
 
-- 🔭 I’m currently working on Canway
 - 🌱 I’m currently using Vue and React
 - 💞 Have a boyfriend fortunately
 
